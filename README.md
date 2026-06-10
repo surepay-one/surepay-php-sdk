@@ -3,7 +3,7 @@
 Official PHP client library for the [SurePay](https://surepay.one) Merchant API.
 
 [![CI](https://github.com/surepay-one/surepay-php-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/surepay-one/surepay-php-sdk/actions/workflows/ci.yml)
-[![Packagist](https://img.shields.io/packagist/v/surepay/sdk)](https://packagist.org/packages/surepay/sdk)
+[![Packagist](https://img.shields.io/packagist/v/surepay-one/sdk)](https://packagist.org/packages/surepay-one/sdk)
 
 ## Requirements
 
@@ -15,7 +15,7 @@ Official PHP client library for the [SurePay](https://surepay.one) Merchant API.
 ## Install
 
 ```bash
-composer require surepay/sdk
+composer require surepay-one/sdk
 ```
 
 ## Quick start
